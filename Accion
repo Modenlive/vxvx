@@ -1,0 +1,124 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/vc91ht4uh/tradi34.jpg",[COLOR red]# #   [COLOR red]Accion   [COLOR red][COLOR red]# #[/COLOR]
+http://elecdeka.com
+#EXTINF:-1 tvg-id="" tvg-name="Mudo (2018)" tvg-logo="http://olha.ai/V135uD" group-title="Accion",[COLOR blue]#  [/COLOR]Mudo (2018)
+http://olha.ai/PgWdSF
+#EXTINF:-1 tvg-id="" tvg-name="Maze Runner: La Cura Mortal (2018)" tvg-logo="http://olha.ai/7srAo8" group-title="Accion",[COLOR blue]#  [/COLOR]Maze Runner: La Cura Mortal (2018)
+http://olha.ai/L6DbNB
+#EXTINF:-1 tvg-id="" tvg-name="The Debt Collector (2018)" tvg-logo="http://olha.ai/mTRLVy" group-title="Accion",[COLOR blue]#  [/COLOR]The Debt Collector (2018)
+http://olha.ai/Q4rs92
+#EXTINF:-1 tvg-id="" tvg-name="Death Race 2050 (2017)" tvg-logo="http://olha.ai/k8nQ8c" group-title="Accion",[COLOR blue]#  [/COLOR]Death Race 2050 (2017)
+http://olha.ai/73vmkn
+#EXTINF:-1 tvg-id="" tvg-name="Jack Reacher 2 - Never Go Back (2016)" tvg-logo="http://olha.ai/N8peV3" group-title="Accion",[COLOR blue]#  [/COLOR]Jack Reacher 2 - Never Go Back (2016)
+http://olha.ai/m2oGwY
+#EXTINF:-1 tvg-id="" tvg-name="Sangre De Mi Sangre (2016)" tvg-logo="http://olha.ai/a8hdqX" group-title="Accion",[COLOR blue]#  [/COLOR]Sangre De Mi Sangre (2016)
+http://olha.ai/46RJAp
+#EXTINF:-1 tvg-id="" tvg-name="Django Sin Cadenas (2012)" tvg-logo="http://latinchannel.tv:8000/images/1762.jpg" group-title="Accion",[COLOR blue]#  [/COLOR]Django Sin Cadenas (2012)
+http://latinchannel.tv:8000/movie/ANABEL/AxaKajXC67/1762.mkv
+#EXTINF:-1 tvg-id="" tvg-name="iBoy (2017)" tvg-logo="http://latinchannel.tv:8000/images/1763.jpg" group-title="Accion",[COLOR blue]#  [/COLOR]iBoy (2017)
+http://latinchannel.tv:8000/movie/ANABEL/AxaKajXC67/1763.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Doctor Strange-Hechicero Supremo (2016)" tvg-logo="http://latinchannel.tv:8000/images/1815.jpg" group-title="Accion",[COLOR blue]#  [/COLOR]Doctor Strange-Hechicero Supremo (2016)
+http://latinchannel.tv:8000/movie/ANABEL/AxaKajXC67/1815.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Mechanic (2011)" tvg-logo="http://latinchannel.tv:8000/images/1875.jpg" group-title="Accion",[COLOR blue]#  [/COLOR]The Mechanic (2011)
+http://latinchannel.tv:8000/movie/ANABEL/AxaKajXC67/1875.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Eliminators (2016)" tvg-logo="http://latinchannel.tv:8000/images/1885.jpg" group-title="Accion",[COLOR blue]#  [/COLOR]Eliminators (2016)
+http://latinchannel.tv:8000/movie/ANABEL/AxaKajXC67/1885.mkv
+#EXTINF:-1 tvg-id="" tvg-name="xXx (2002)" tvg-logo="http://latinchannel.tv:8000/images/1949.jpg" group-title="Accion",[COLOR blue]#  [/COLOR]xXx (2002)
+http://latinchannel.tv:8000/movie/ANABEL/AxaKajXC67/1949.mkv
+#EXTINF:-1 tvg-id="" tvg-name="xXx 2 Estado De Emergencia (2005)" tvg-logo="http://latinchannel.tv:8000/images/1950.jpg" group-title="Accion",[COLOR blue]#  [/COLOR]xXx 2 Estado De Emergencia (2005)
+http://latinchannel.tv:8000/movie/ANABEL/AxaKajXC67/1950.mkv
+#EXTINF:-1 tvg-id="" tvg-name="xXx 3 Reactivado (2017)" tvg-logo="http://latinchannel.tv:8000/images/1951.jpg" group-title="Accion",[COLOR blue]#  [/COLOR]xXx 3 Reactivado (2017)
+http://latinchannel.tv:8000/movie/ANABEL/AxaKajXC67/1951.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Logan (2017)" tvg-logo="http://latinchannel.tv:8000/images/2323.jpg" group-title="Accion",[COLOR blue]#  [/COLOR]Logan (2017)
+http://latinchannel.tv:8000/movie/ANABEL/AxaKajXC67/2323.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rápido Y Furioso 8 (2017)" tvg-logo="http://latinchannel.tv:8000/images/2354.jpg" group-title="Accion",[COLOR blue]#  [/COLOR]Rápido Y Furioso 8 (2017)
+http://latinchannel.tv:8000/movie/ANABEL/AxaKajXC67/2354.mkv
+#EXTINF:-1 tvg-id="" tvg-name="John Wick 2 (2017)" tvg-logo="http://latinchannel.tv:8000/images/2379.jpg" group-title="Accion",[COLOR blue]#  [/COLOR]John Wick 2 (2017)
+http://latinchannel.tv:8000/movie/ANABEL/AxaKajXC67/2379.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mercancía Peligrosa (2016)" tvg-logo="http://latinchannel.tv:8000/images/2568.jpg" group-title="Accion",[COLOR blue]#  [/COLOR]Mercancía Peligrosa (2016)
+http://latinchannel.tv:8000/movie/ANABEL/AxaKajXC67/2568.mkv
+#EXTINF:-1 tvg-id="" tvg-name="S.W.A.T. Under Siege (2017)" tvg-logo="http://latinchannel.tv:8000/images/3059.jpg" group-title="Accion",[COLOR blue]#  [/COLOR]S.W.A.T. Under Siege (2017)
+http://latinchannel.tv:8000/movie/ANABEL/AxaKajXC67/3059.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Momia (2017)" tvg-logo="http://latinchannel.tv:8000/images/3175.jpg" group-title="Accion",[COLOR blue]#  [/COLOR]La Momia (2017)
+http://latinchannel.tv:8000/movie/ANABEL/AxaKajXC67/3175.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Santo (2017)" tvg-logo="http://latinchannel.tv:8000/images/3208.jpg" group-title="Accion",[COLOR blue]#  [/COLOR]El Santo (2017)
+http://latinchannel.tv:8000/movie/ANABEL/AxaKajXC67/3208.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Baywatch (2017)" tvg-logo="http://latinchannel.tv:8000/images/3232.jpg" group-title="Accion",[COLOR blue]#  [/COLOR]Baywatch (2017)
+http://latinchannel.tv:8000/movie/ANABEL/AxaKajXC67/3232.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Starship trooper-Traidor de marte(2017)" tvg-logo="http://latinchannel.tv:8000/images/3324.jpg" group-title="Accion",[COLOR blue]#  [/COLOR]Starship trooper-Traidor de marte(2017)
+http://latinchannel.tv:8000/movie/ANABEL/AxaKajXC67/3324.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jolly LLB 2 (2017)" tvg-logo="http://latinchannel.tv:8000/images/3384.jpg" group-title="Accion",[COLOR blue]#  [/COLOR]Jolly LLB 2 (2017)
+http://latinchannel.tv:8000/movie/ANABEL/AxaKajXC67/3384.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Transformers El Último Caballero (2017)" tvg-logo="http://latinchannel.tv:8000/images/3578.jpg" group-title="Accion",[COLOR blue]#  [/COLOR]Transformers El Último Caballero (2017)
+http://latinchannel.tv:8000/movie/ANABEL/AxaKajXC67/3578.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Capitán América: El primer vengador (2011)" tvg-logo="http://latinchannel.tv:8000/images/3622.jpg" group-title="Accion",[COLOR blue]#  [/COLOR]Capitán América: El primer vengador (2011)
+http://latinchannel.tv:8000/movie/ANABEL/AxaKajXC67/3622.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Piratas del Caribe 5 - la venganza de Salazar (2017)" tvg-logo="http://latinchannel.tv:8000/images/3631.jpg" group-title="Accion",[COLOR blue]#  [/COLOR]Piratas del Caribe 5 - la venganza de Salazar (2017)
+http://latinchannel.tv:8000/movie/ANABEL/AxaKajXC67/3631.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vigilante Nocturno (2017)" tvg-logo="http://latinchannel.tv:8000/images/3695.jpg" group-title="Accion",[COLOR blue]#  [/COLOR]Vigilante Nocturno (2017)
+http://latinchannel.tv:8000/movie/ANABEL/AxaKajXC67/3695.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Atomica (2017)" tvg-logo="http://latinchannel.tv:8000/images/3696.jpg" group-title="Accion",[COLOR blue]#  [/COLOR]Atomica (2017)
+http://latinchannel.tv:8000/movie/ANABEL/AxaKajXC67/3696.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spiderman-De regreso a casa (2017)" tvg-logo="http://latinchannel.tv:8000/images/3711.jpg" group-title="Accion",[COLOR blue]#  [/COLOR]Spiderman-De regreso a casa (2017)
+http://latinchannel.tv:8000/movie/ANABEL/AxaKajXC67/3711.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Baby: El Aprendiz del Crimen (2017)" tvg-logo="http://latinchannel.tv:8000/images/3721.jpg" group-title="Accion",[COLOR blue]#  [/COLOR]Baby: El Aprendiz del Crimen (2017)
+http://latinchannel.tv:8000/movie/ANABEL/AxaKajXC67/3721.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Planeta de los Simios: La Guerra (2017)" tvg-logo="http://latinchannel.tv:8000/images/3796.jpg" group-title="Accion",[COLOR blue]#  [/COLOR]El Planeta de los Simios: La Guerra (2017)
+http://latinchannel.tv:8000/movie/ANABEL/AxaKajXC67/3796.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Persecución Extrema 5 (2017)" tvg-logo="http://latinchannel.tv:8000/images/3963.jpg" group-title="Accion",[COLOR blue]#  [/COLOR]Persecución Extrema 5 (2017)
+http://latinchannel.tv:8000/movie/ANABEL/AxaKajXC67/3963.mkv
+#EXTINF:-1 tvg-id="" tvg-name="6 Dias (2017)" tvg-logo="http://latinchannel.tv:8000/images/4254.jpg" group-title="Accion",[COLOR blue]#  [/COLOR]6 Dias (2017)
+http://latinchannel.tv:8000/movie/ANABEL/AxaKajXC67/4254.mkv
+#EXTINF:-1 tvg-id="" tvg-name="God of War (2017)" tvg-logo="http://latinchannel.tv:8000/images/4553.jpg" group-title="Accion",[COLOR blue]#  [/COLOR]God of War (2017)
+http://latinchannel.tv:8000/movie/ANABEL/AxaKajXC67/4553.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Asesino: Misión Venganza (2017)" tvg-logo="http://latinchannel.tv:8000/images/4620.jpg" group-title="Accion",[COLOR blue]#  [/COLOR]Asesino: Misión Venganza (2017)
+http://latinchannel.tv:8000/movie/ANABEL/AxaKajXC67/4620.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Guardianes (2017)" tvg-logo="http://latinchannel.tv:8000/images/4685.jpg" group-title="Accion",[COLOR blue]#  [/COLOR]Guardianes (2017)
+http://latinchannel.tv:8000/movie/ANABEL/AxaKajXC67/4685.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kingsman: El Círculo Dorado (2017)" tvg-logo="http://latinchannel.tv:8000/images/4750.jpg" group-title="Accion",[COLOR blue]#  [/COLOR]Kingsman: El Círculo Dorado (2017)
+http://latinchannel.tv:8000/movie/ANABEL/AxaKajXC67/4750.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Estafa de los Logan (2017)" tvg-logo="http://latinchannel.tv:8000/images/4770.jpg" group-title="Accion",[COLOR blue]#  [/COLOR]La Estafa de los Logan (2017)
+http://latinchannel.tv:8000/movie/ANABEL/AxaKajXC67/4770.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dunkerque (2017)" tvg-logo="http://latinchannel.tv:8000/images/4878.jpg" group-title="Accion",[COLOR blue]#  [/COLOR]Dunkerque (2017)
+http://latinchannel.tv:8000/movie/ANABEL/AxaKajXC67/4878.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Barry Seal,[COLOR blue]#  [/COLOR] Sólo en América (2017)" tvg-logo="http://latinchannel.tv:8000/images/4884.jpg" group-title="Accion",[COLOR blue]#  [/COLOR]Barry Seal,[COLOR blue]#  [/COLOR] Sólo en América (2017)
+http://latinchannel.tv:8000/movie/ANABEL/AxaKajXC67/4884.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bright (2017)" tvg-logo="http://latinchannel.tv:8000/images/4909.jpg" group-title="Accion",[COLOR blue]#  [/COLOR]Bright (2017)
+http://latinchannel.tv:8000/movie/ANABEL/AxaKajXC67/4909.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Liga de la justicia (2017)" tvg-logo="http://latinchannel.tv:8000/images/4981.jpg" group-title="Accion",[COLOR blue]#  [/COLOR]Liga de la justicia (2017)
+http://latinchannel.tv:8000/movie/ANABEL/AxaKajXC67/4981.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Geo-Tormenta (2017)" tvg-logo="http://latinchannel.tv:8000/images/4995.jpg" group-title="Accion",[COLOR blue]#  [/COLOR]Geo-Tormenta (2017)
+http://latinchannel.tv:8000/movie/ANABEL/AxaKajXC67/4995.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Terremoto: La falla de San Andres (2015)" tvg-logo="http://latinchannel.tv:8000/images/5022.jpg" group-title="Accion",[COLOR blue]#  [/COLOR]Terremoto: La falla de San Andres (2015)
+http://latinchannel.tv:8000/movie/ANABEL/AxaKajXC67/5022.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Noche de Venganza (2017)" tvg-logo="http://latinchannel.tv:8000/images/5027.jpg" group-title="Accion",[COLOR blue]#  [/COLOR]Noche de Venganza (2017)
+http://latinchannel.tv:8000/movie/ANABEL/AxaKajXC67/5027.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stratton (2017)" tvg-logo="http://latinchannel.tv:8000/images/5178.jpg" group-title="Accion",[COLOR blue]#  [/COLOR]Stratton (2017)
+http://latinchannel.tv:8000/movie/ANABEL/AxaKajXC67/5178.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Brawl in Cell Block 99 (2017)" tvg-logo="http://latinchannel.tv:8000/images/5209.jpg" group-title="Accion",[COLOR blue]#  [/COLOR]Brawl in Cell Block 99 (2017)
+http://latinchannel.tv:8000/movie/ANABEL/AxaKajXC67/5209.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Thor: Ragnarok (2017)" tvg-logo="http://latinchannel.tv:8000/images/5210.jpg" group-title="Accion",[COLOR blue]#  [/COLOR]Thor: Ragnarok (2017)
+http://latinchannel.tv:8000/movie/ANABEL/AxaKajXC67/5210.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Villana (2017)" tvg-logo="http://latinchannel.tv:8000/images/5257.jpg" group-title="Accion",[COLOR blue]#  [/COLOR]La Villana (2017)
+http://latinchannel.tv:8000/movie/ANABEL/AxaKajXC67/5257.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Actos de Venganza (2017)" tvg-logo="http://latinchannel.tv:8000/images/5297.jpg" group-title="Accion",[COLOR blue]#  [/COLOR]Actos de Venganza (2017)
+http://latinchannel.tv:8000/movie/ANABEL/AxaKajXC67/5297.mkv
+#EXTINF:-1 tvg-id="" tvg-name="En Defensa Propia (2017)" tvg-logo="http://latinchannel.tv:8000/images/5370.jpg" group-title="Accion",[COLOR blue]#  [/COLOR]En Defensa Propia (2017)
+http://latinchannel.tv:8000/movie/ANABEL/AxaKajXC67/5370.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Gran Fuga (2017)" tvg-logo="http://latinchannel.tv:8000/images/5371.jpg" group-title="Accion",[COLOR blue]#  [/COLOR]La Gran Fuga (2017)
+http://latinchannel.tv:8000/movie/ANABEL/AxaKajXC67/5371.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Olvidado (2017)" tvg-logo="http://latinchannel.tv:8000/images/5381.jpg" group-title="Accion",[COLOR blue]#  [/COLOR]Olvidado (2017)
+http://latinchannel.tv:8000/movie/ANABEL/AxaKajXC67/5381.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Star Wars Episodio 8 - Los ultimos jedi (2017)" tvg-logo="http://latinchannel.tv:8000/images/5447.jpg" group-title="Accion",[COLOR blue]#  [/COLOR]Star Wars Episodio 8 - Los ultimos jedi (2017)
+http://latinchannel.tv:8000/movie/ANABEL/AxaKajXC67/5447.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Implacable (2017)" tvg-logo="http://latinchannel.tv:8000/images/5450.jpg" group-title="Accion",[COLOR blue]#  [/COLOR]El Implacable (2017)
+http://latinchannel.tv:8000/movie/ANABEL/AxaKajXC67/5450.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kickboxer: Retaliation (2018)" tvg-logo="http://latinchannel.tv:8000/images/5459.jpg" group-title="Accion",[COLOR blue]#  [/COLOR]Kickboxer: Retaliation (2018)
+http://latinchannel.tv:8000/movie/ANABEL/AxaKajXC67/5459.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Código Abierto (2017)" tvg-logo="http://latinchannel.tv:8000/images/5500.jpg" group-title="Accion",[COLOR blue]#  [/COLOR]Código Abierto (2017)
+http://latinchannel.tv:8000/movie/ANABEL/AxaKajXC67/5500.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lluvia de Acero (2017)" tvg-logo="http://latinchannel.tv:8000/images/5507.jpg" group-title="Accion",[COLOR blue]#  [/COLOR]Lluvia de Acero (2017)
+http://latinchannel.tv:8000/movie/ANABEL/AxaKajXC67/5507.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mayhem (2017)" tvg-logo="http://latinchannel.tv:8000/images/8770.jpg" group-title="Accion",[COLOR blue]#  [/COLOR]Mayhem (2017)
+http://latinchannel.tv:8000/movie/ANABEL/AxaKajXC67/8770.mkv
